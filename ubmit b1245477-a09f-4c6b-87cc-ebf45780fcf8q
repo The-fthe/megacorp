@@ -1,0 +1,65 @@
+[33mcommit 5fc452252e35692473a2f43151a84caae6d75902[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtemp_main[m[33m)[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Mon Jul 29 00:01:10 2024 +0900
+
+    J: redacted
+    
+    L: added favs to main
+    
+    K: added favs to main
+
+[33mcommit 79d89d5d76861acefd2be0625236b8b9958cc977[m
+Merge: 5fccb3e fd4fe3c
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sun Jul 28 11:23:37 2024 +0900
+
+    H: solve multi conflict
+
+[33mcommit 5fccb3e6b69e0c64473c0ee91fb8e43ef8a3471d[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sun Jul 28 11:21:11 2024 +0900
+
+    G: change main all and partners
+
+[33mcommit fd4fe3c3195fdc641a16f28472af47ce31bcc659[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 23:07:48 2024 +0900
+
+    F: edit all.csv and partner.txt
+
+[33mcommit 4fe217dedbde1cf405499472c635646ac03166e3[m
+Merge: decb93f 0cff848
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 23:03:03 2024 +0900
+
+    E: merge using main in all.csv
+
+[33mcommit 0cff8485cfde98f933e9c9cfc17100b9920d0871[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 22:46:36 2024 +0900
+
+    D: add jayson to customers
+
+[33mcommit decb93fadc1a9696cc212b0e9d62c64b3a0db41e[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 22:45:52 2024 +0900
+
+    C: update customers and partners
+
+[33mcommit 0365e4703305d09854caa9e476e34dd07b3a4777[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 22:37:49 2024 +0900
+
+    B: recovery
+
+[33mcommit b79b6df0e3b2f4cd11b4a6798df9f10497b67245[m[33m ([m[1;31morigin/add_contrib[m[33m)[m
+Author: fthe <lcslianandfthe.cs@gmail.com>
+Date:   Sat Jul 27 22:07:11 2024 +0900
+
+    add myself as a contributor
+
+[33mcommit 0d16f954dfda53be7e875da6a23698c428cf68af[m[33m ([m[1;31mupstream/main[m[33m)[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed Jun 26 11:22:51 2024 -0600
+
+    A: The Founding of MegaCorp and the End of Art
